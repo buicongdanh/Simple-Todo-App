@@ -6,7 +6,7 @@ Authors: [Danh Bui](https://github.com/buicongdanh)
 ## Description
 ### Build with
 - Frontend, Backend: Django
-- CSDL: MySQL
+- Database: MySQL
 
 ### Features
 Basic tasks CRUD
