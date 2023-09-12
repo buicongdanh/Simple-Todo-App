@@ -1,7 +1,7 @@
 # Simple-Todo-App
-Simple Todo-App, demo for Distributed Applications courses
+Simple Todo-App, a demostration introducing Django web framework in Distributed Applications courses
 
-Authors: [Danh Bui](https://github.com/buicongdanh)
+Authors: [buicongdanh](https://github.com/buicongdanh)
 
 ## Description
 ### Build with
